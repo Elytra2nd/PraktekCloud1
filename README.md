@@ -16,7 +16,7 @@ Dibuat dengan ❤️ oleh M. Imam Firdaus.
 Perbaikian README.md
 
 metadata
-title: Praktekcloud1
+title: PraktekCloud1
 emoji: 👀
 license: mit
 colorFrom: blue
