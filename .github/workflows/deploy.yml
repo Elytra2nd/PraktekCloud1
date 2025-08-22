@@ -16,5 +16,5 @@ jobs:
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
 
-          git remote add hf https://Elytra1st:${{ secrets.HF_TOKEN }}@huggingface.co/spaces/Elytra1st/sisfocloud
+          git remote add hf https://Elytra1st:${{ secrets.HF_TOKEN }}@huggingface.co/spaces/Elytra1st/PraktekCloud1
           git push -f hf main
